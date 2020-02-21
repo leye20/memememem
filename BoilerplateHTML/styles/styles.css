@@ -1,0 +1,51 @@
+html {
+   
+    background-color: gray;
+}
+section {
+    background-color: red;
+
+    height: 100px;
+    width: 100px;
+
+    border: 10px solid greenyellow;
+    padding: 10px;
+    margin: 10px;
+    margin: 0 auto;
+    /* margin: 0 auto; */
+    /* margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto; */
+}
+
+h3 {
+    text-align: center;
+    font-size: 100px;
+    border: 10px solid indigo;
+    margin: 10px 10px 10px auto;
+}
+/* 
+.statiCling{
+    position: static;
+    top: 20px;
+    background-color: teal;
+}
+
+.relativity {
+    position: relative;
+    top: 20px;
+    background-color: turquoise;
+}
+
+.absolutely{
+    position: absolute;
+    top: 20px;
+    background-color: fuchsia;
+}
+
+.fixer{
+    position: fixed;
+    top: 20px;
+    background-color: maroon;
+} */
